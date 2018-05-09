@@ -1,2 +1,2 @@
-# enums
+# varargs
 Example for Java Course
